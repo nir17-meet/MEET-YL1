@@ -1,0 +1,15 @@
+import random
+
+num = int(input("please enter the amount of flips"))
+x=1
+
+while(x <= num):
+	print(x)
+	c = random.randInt(1,2)
+	if(x == 1)
+		print(" T")
+	if(x == 2)
+		print(" H")
+
+	x++
+	
